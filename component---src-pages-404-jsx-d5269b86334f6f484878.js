@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{pssB:function(e,a,n){"use strict";n.r(a),function(e){n("q1tI");var t=n("zHrm");a.default=()=>e.createElement(t.a,null,e.createElement("h1",{className:"mucapp"}," 404: Page Not Found"))}.call(this,n("iMUK"))}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-d5269b86334f6f484878.js.map
